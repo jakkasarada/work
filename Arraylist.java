@@ -14,5 +14,6 @@ class Arraylist
 		System.out.println("new line");
 		System.out.println("Sharada");
 		System.out.println("Subbu");
+		System.out.println("jagadeesh");
 	}
 }
